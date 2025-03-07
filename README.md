@@ -7,7 +7,7 @@
 
 ## Calculo implementado - Sequência de acordo com especificação
 
-### É possível pesquisar um número e o sistema vai retornar o valor com base na regra pré definida
+### Pesquisar um número e o sistema vai retornar o valor com base na regra pré definida
 
 
 ## Tecnologias utilizadas
