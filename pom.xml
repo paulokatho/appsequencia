@@ -29,12 +29,6 @@
     </dependencyManagement>
 
     <dependencies>
-        <!-- Removido quarkus-rest-jackson, pois não é necessário com quarkus-resteasy -->
-        <!-- <dependency>
-            <groupId>io.quarkus</groupId>
-            <artifactId>quarkus-rest-jackson</artifactId>
-        </dependency> -->
-
         <dependency>
             <groupId>io.quarkus</groupId>
             <artifactId>quarkus-hibernate-orm-panache</artifactId>
