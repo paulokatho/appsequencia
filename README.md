@@ -1,4 +1,4 @@
-[![realist](https://github.com/user-attachments/assets/7a913cf8-bc3d-4555-bde1-bcef6a0ee7d3)](https://github.com/paulokatho/appsequencia/issues/2#issue-2904749279)
+![Image](https://github.com/user-attachments/assets/bc1d3306-80c1-43c5-8d59-4b61ce209173)
 
 > Status: Developing ⚠️
 
